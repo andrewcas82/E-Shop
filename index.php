@@ -15,6 +15,7 @@
                     E-Shop
                 </a>
             </div>
+
             <!-- Menu -->            
             <nav id="nav" >
                 <ul>
@@ -37,6 +38,16 @@
                         <a href="">Contacto</a>
                     </li>
                 </ul>
+
+                
+            <!-- nav -->
+            <nav class="navbar navbar-light bg-light">
+                <form class="form-inline">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                </form>
+            </nav>
+
             </nav>
         </header>
         <div id="container" >
@@ -82,7 +93,7 @@
             <div id="main" >
                 <h1>Articulos</h1>
                 <article class="article" >
-                    <h2>Articulos</h2>
+                    <h2>Nombre del Articulos</h2>
                     <p>
                     Lorem Ipsum is simply dummy text of the printing and 
                     typesetting industry. Lorem Ipsum has been the industry's 
